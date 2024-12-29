@@ -2,11 +2,11 @@ Project Setup: Done
 JSON : Dummy Blog Data: Done
 Express Server: Done
 
-fs Read function
-fs Write Function
+fs Read function: Done
+fs Write Function: Done
 
 API'S
-READ : GET
-CREATE : POST
-UPDATE: PUT
-DELETE: DELETE
+READ : GET: Done
+CREATE : POST: Done
+UPDATE: PUT: Done
+DELETE: DELETE: Done
