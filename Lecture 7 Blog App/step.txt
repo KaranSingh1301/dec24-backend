@@ -10,3 +10,9 @@ READ : GET: Done
 CREATE : POST: Done
 UPDATE: PUT: Done
 DELETE: DELETE: Done
+
+Mongodb
+Authentication(session(express session), token(jwt)) (Passport.js)
+MVC
+
+ecommerce, web chat, netflix
