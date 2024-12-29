@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Node.js",
+    "content": "Node.js is a runtime environment for executing JavaScript outside of the browser. This blog post introduces the basics of Node.js."
+  },
+  {
+    "id": 2,
+    "title": "Understanding Express.js",
+    "content": "Express.js is a popular webs framework for Node.js. Learn how to build web applications and APIs using Express.js."
+  },
+  {
+    "id": 5,
+    "title": "new edit api",
+    "content": "new dtata content"
+  }
+]

@@ -1,0 +1,12 @@
+Project Setup: Done 
+JSON : Dummy Blog Data: Done
+Express Server: Done
+
+fs Read function
+fs Write Function
+
+API'S
+READ : GET
+CREATE : POST
+UPDATE: PUT
+DELETE: DELETE
